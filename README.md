@@ -19,7 +19,7 @@ https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 4. Methods:
 For this analysis I used pandas for comparing World Happiness variables of 'Freedom to make life choices' rankings with the third quartile and first quartile rankings for the year 2020.
 
-**Feedback:**
+**Open to Feedback:**
 Please feel free to critique and offer any suggestions you would have.  I very much look forward to hearing from anyone willing to offer their expertise.
 
 Rob Harris

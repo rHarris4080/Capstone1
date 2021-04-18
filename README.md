@@ -1,10 +1,10 @@
 # Capstone1
-Hypothesis Testing - World Happiness Report 2020
+Hypothesis Testing - World Happiness Report 2015-2020
 
 Author: Rob Harris 2/21
 
 **Context:** 
-This was my first major project in the data science flex cerfication program, and I quickly realized how many directions a research project can take.  I had some misconceptions early in the process that hindered much of my early progress.  I feel that a lot of time went into basic research that is not reflected in the final presentation itself, but that process was invaluable for my long term growth and understanding as a data scientist.
+This was my first major project in the data science flex cerfication program, and I quickly realized how many directions a research project can take.  I had some misconceptions early in the process that hindered much of my early progress.  I feel that a lot of time went into basic research that is not reflected in the final presentation itself, but that process was invaluable for my long term growth and understanding as a data scientist.  I do feel a bit underwhelmed looking at this project now, but again I consider this a learning opportunity for my professional development.
 
 **Abstract:** 
 The Worldwide Happiness Report is a dataset found on Kaggle that measures how happy a country’s citizens are.  Data was provided from 2015-2020.  Many categories were included factoring into a country’s overall happiness rank.  While many categories overlapped from year to year, many differed on their content and how that content was reported. Therefore, instead of comparing data from year to year I decided to focus on the most recent year provided 2020. The stakeholder is anyone interested in what people perceive as happiness relative to where in the world you live. Stakeholders will have a small insight into one aspect of worldwide happiness that could be a segue into further data analysis.
